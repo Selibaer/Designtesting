@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Palmengarten — Designstudie</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+
+        <div class="study-label">Online-Designstudie · ca. 12–15 Minuten</div>
+      </header>
+
+      <div id="content" class="content"></div>
+
+      <footer class="navigation">
+        <button id="back" class="button">← Zurück</button>
+        <span id="progress" class="progress"></span>
+        <button id="next" class="button button--primary">Weiter →</button>
+      </footer>
+    </main>
+
+    <dialog id="moodboardModal" class="modal">
+      <button id="closeModal" class="modal__close">Schließen ×</button>
+      <img id="modalImage" alt="Moodboard in voller Ansicht">
+    </dialog>
+
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<rect width="1600" height="1000" fill="#171719"/>
+<rect x="55" y="55" width="1490" height="890" fill="#d8d2c8" stroke="#050505" stroke-width="10"/>
+<rect x="90" y="90" width="1420" height="820" fill="#202024" stroke="#050505" stroke-width="6"/>
+<rect x="120" y="120" width="720" height="120" fill="#b84a30" stroke="#050505" stroke-width="5"/>
+<text x="150" y="202" font-family="Courier New, monospace" font-size="70" font-weight="700" fill="#ffffff">APPLICATION C</text>
+<text x="130" y="320" font-family="Courier New, monospace" font-size="38" font-weight="700" fill="#f0ece6">CORPORATE DESIGN / MOCKUP / SOCIAL / PRINT</text>
+<line x1="130" y1="370" x2="1470" y2="370" stroke="#9f1838" stroke-width="8"/>
+<text x="130" y="470" font-family="Courier New, monospace" font-size="34" fill="#f0ece6">REPLACE THIS FILE WITH YOUR FINAL DESIGN PAGE</text>
+<text x="130" y="540" font-family="Courier New, monospace" font-size="27" fill="#9d9690">Recommended export: 1600 × 1000 px or larger</text>
+<text x="130" y="590" font-family="Courier New, monospace" font-size="27" fill="#9d9690">Keep the same filename to avoid editing index.html</text>
+<rect x="130" y="680" width="300" height="120" fill="#9f1838"/>
+<rect x="455" y="680" width="300" height="120" fill="#303036"/>
+<rect x="780" y="680" width="300" height="120" fill="#d8d2c8"/>
+<text x="130" y="865" font-family="Courier New, monospace" font-size="24" fill="#777">ACME // DESIGN TEST PLACEHOLDER</text>
+</svg>
