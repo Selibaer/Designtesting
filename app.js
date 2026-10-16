@@ -127,7 +127,7 @@ function material(item) {
 }
 
 function finish() {
-  return '<section class="slide slide--active finish"><div class="eyebrow">Vielen Dank</div><h1>Ihre Antworten<br>sind bereit.</h1><p class="lede">Bitte laden Sie jetzt Ihre persönliche Antwortdatei herunter und schicken Sie diese per E-Mail an die Person, von der Sie den Studienlink erhalten haben.</p><button id="download" class="download">Antwortdatei herunterladen (.json)</button><p class="note">Die Datei enthält Ihre Antworten und die zufällige Reihenfolge der Varianten.</p></section>';
+  return '<section class="slide slide--active finish"><div class="eyebrow">Vielen Dank</div><h1>Ihre Antworten<br>sind bereit.</h1><p class="lede">Bitte laden Sie jetzt Ihre persönliche Antwortdatei herunter und schicken Sie diese per E-Mail an selina.baerwald@mni.thm.de </p><button id="download" class="download">Antwortdatei herunterladen (.json)</button><p class="note">Die Datei enthält Ihre Antworten und die zufällige Reihenfolge der Varianten.</p></section>';
 }
 
 function bind(item) {
